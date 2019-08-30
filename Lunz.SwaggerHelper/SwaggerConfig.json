@@ -1,0 +1,8 @@
+{
+  //与 configuration.json 中的下游微服务地址匹配。
+  //给最后组合成的总的 Swagger.json 文件设置统一的 info 信息，属性可以增删。
+  "info": {
+    "title": "API Gateway for Microservice Template",
+    "version": "1.0.0"
+  }
+}

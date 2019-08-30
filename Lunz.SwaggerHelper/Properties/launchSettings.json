@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Lunz.SwaggerHelper": {
+      "commandName": "Project", ////SwaggerConfig.json给最后组合成的总的 Swagger.json 文件设置统一的 info 信息，属性可以增删。
+      //config.json  swagger.json 文件所在ip 端口
+      // swagger.json 合成的文件路径
+      "commandLineArgs": "generate ocelot -s C:\\Users\\25119\\Desktop\\Swagger-Helper-master\\src\\Lunz.SwaggerHelper\\swagger.json -c C:\\Users\\25119\\Desktop\\Swagger-Helper-master\\src\\Lunz.SwaggerHelper\\SwaggerConfig.json -o C:\\Users\\25119\\Desktop\\Swagger-Helper-master\\src\\Lunz.SwaggerHelper\\config.json"
+    }
+  }
+}

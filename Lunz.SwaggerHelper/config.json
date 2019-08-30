@@ -1,0 +1,17 @@
+{
+  "ReRoutes": [
+      {
+        "DownstreamHostAndPorts": [ //下游端口及host
+          {
+            "Host": "192.168.0.236",
+            "Port": 10001
+          },
+          {
+            "Host": "192.168.0.236",
+            "Port": 10002
+          }
+        ]
+      }
+    ],
+    "GlobalConfiguration": {}
+}
